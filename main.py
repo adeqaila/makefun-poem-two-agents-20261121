@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Write the poem to /output/entry.txt (UTF-8, LF newlines, no trailing newline).
+"""Entry for the two-agents poem: writes the poem to /output/entry.txt.
 
-Stdlib only, deterministic, no network.
+Deterministic and stdlib-only; no network access.
 """
 
 import os
